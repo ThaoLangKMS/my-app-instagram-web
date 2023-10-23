@@ -9,19 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@lottiefiles/lottie-player": "^2.0.2",
+    "@material-tailwind/react": "^2.1.2",
+    "@react-icons/all-files": "^4.1.0",
+    "axios": "^1.5.1",
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^4.11.0",
+    "react-responsive-carousel": "^3.2.23",
+    "tw-elements": "^1.0.0"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
     "@types/node": "latest",
+    "@types/react": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
+    "daisyui": "^3.8.2",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest"
+    "typescript": "latest"
   }
 }
